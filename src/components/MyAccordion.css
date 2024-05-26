@@ -1,0 +1,15 @@
+.MyAccordion_heading{
+    margin: 20px;
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid blueviolet;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: cadetblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.MyAccordion_heading h1{
+    text-align: center;
+}
